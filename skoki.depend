@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1524834445 source:c:\users\krzysiek\desktop\gra_skoki\skoki\main.cpp
+	<iostream>
+	<time.h>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	"skoki.h"
+
+1524834445 c:\users\krzysiek\desktop\gra_skoki\skoki\skoki.h
+	<iostream>
+	<time.h>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+

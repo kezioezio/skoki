@@ -7,6 +7,7 @@
 #include <windows.h>
 #include <fstream>
 #include "skoki.h"
+
 using namespace std;
 
 
@@ -81,6 +82,7 @@ int main()
         {
         case 1:
             {
+            //u3.wczytywanie();
             u3.loadusers();
             u3.loadtactic();
             planica(u3);

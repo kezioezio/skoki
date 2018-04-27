@@ -7,7 +7,31 @@
 #include <windows.h>
 #include <fstream>
 #include "skoki.h"
+
 using namespace std;
+
+
+/*void Zawodnik::wczytywanie()
+{
+    string a;
+    fstream plik;
+    plik.open("dane_zawodnika.txt",ios::in);
+
+    while(getline(plik,a))
+    {
+        plik >> nick;
+        plik >> sila;
+        plik >> dos;
+        plik >> tech;
+        plik >> dyn;
+        plik >> ment;
+    }
+
+
+
+
+
+}*/
 
 
 void Zawodnik::loadusers()
@@ -310,15 +334,6 @@ void vikersund(Zawodnik u)
     */
 
     cout<<endl<<"**Wyniki zostaly zapisane do pliku tekstowego 'Wyniki.txt' w katalogu gry**"<<endl;
-
-
-
-
 }
 
-void wyswietlanie(Zawodnik u)
-{
-
-    cout<<u.nick<<" "<<u.nota<<endl;
-
-}
+xxcxcxcxcxz
